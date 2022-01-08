@@ -1,0 +1,28 @@
+.form__group {
+  width: 100%;
+  display: block;
+  position: relative;
+}
+.form__group .form__control {
+  width: 100%;
+  background: #ffffff;
+  border-radius: 24px;
+  border: none;
+  outline: none;
+  padding: 0 20px;
+  direction: rtl;
+  min-height: 35px;
+  font-size: 14px;
+  color: #313039;
+  font-weight: 600;
+}
+.form__group .form__control::placeholder {
+  color: #313039;
+  font-weight: 600;
+}
+.form__group .icon{
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  left: 15px;
+}

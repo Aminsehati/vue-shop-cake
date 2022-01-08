@@ -1,0 +1,14 @@
+.selectbox-container .selectbox-title{
+    background: #fff;
+    width: 100%;
+    min-height: 35px;
+    display: flex;
+    align-items: center;
+    border-radius: 24px;
+    justify-content: flex-end;
+    padding: 0 18px;
+    color: #313039;
+    font-size: 16px;
+    font-weight: 700;
+    user-select: none;
+}

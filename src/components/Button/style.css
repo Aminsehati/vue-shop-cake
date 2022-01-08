@@ -1,0 +1,15 @@
+.btn.btn__primary {
+  background: #e47e7a;
+  border-radius: 24px;
+  color: #fff;
+  font-size: 16px;
+  font-weight: 400;
+}
+.btn.btn__primary:hover{
+    color: #fff;
+}
+.btn.btn__primary.btn-lg{
+    min-width: 230px;
+    min-height: 35px;
+    padding: 0;
+}
